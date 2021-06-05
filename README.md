@@ -33,6 +33,6 @@ git push --set-upstream origin/<rama> # Subo los cambios y ato mi rama a la remo
 
 git pull # Traigo cambios desde la rama remota hacia la mía
 
-git merge <nombreRamaExterna>
+git merge <nombreRamaExterna> # Traer cambios desde nombreRamaExterna a la rama donde estoy parado
 
 ```
