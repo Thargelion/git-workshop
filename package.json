@@ -1,0 +1,30 @@
+{
+  "name": "git-workshop",
+  "version": "1.0.0",
+  "description": "Creating a game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thargelion/git-workshop.git"
+  },
+  "keywords": [
+    "school",
+    "game"
+  ],
+  "author": "Maximiliano De Pietro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thargelion/git-workshop/issues"
+  },
+  "homepage": "https://github.com/Thargelion/git-workshop#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2"
+  }
+}
