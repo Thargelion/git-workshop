@@ -1,2 +1,15 @@
-# git-workshop
-How to use git, github, and gitflow!
+# ARCANOID NO MUY LEGAL
+
+## Lienzo
+
+## Pelota
+
+## Pala
+
+## Muro
+
+## Collisiones
+
+## Controles de ratón
+
+## UI
